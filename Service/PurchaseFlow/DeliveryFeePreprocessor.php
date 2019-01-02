@@ -23,7 +23,6 @@ use Eccube\Entity\Order;
  * 
  * ご注文手続きページと受注管理で実行されるようアノテーションを設定
  * @ShoppingFlow
- * @OrderFlow
  */
 class DeliveryFeePreprocessor implements ItemHolderPreprocessor {
 
