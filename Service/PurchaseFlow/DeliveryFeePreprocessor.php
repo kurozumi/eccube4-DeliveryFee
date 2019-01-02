@@ -17,7 +17,7 @@ use Eccube\Annotation\OrderFlow;
 use Eccube\Entity\Order;
 
 /**
- * 合計金額3000円未満の場合、送料に300円追加
+ * 合計金額3000円未満の場合、送料に300円加算
  * 
  * @author Akira Kurozumi <info@a-zumi.net>
  * 
